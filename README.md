@@ -7,3 +7,6 @@ pip install django
 pip install mysqlclient
 
 python manage.py runserver
+
+
+database: simplebankdb
